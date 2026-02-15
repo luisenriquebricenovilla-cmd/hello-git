@@ -1,5 +1,5 @@
-console.log("hola2");
+console.log("no me joda");
 
-console.log("que tal el curso");
+console.log("qno me joda 2");
 
 
